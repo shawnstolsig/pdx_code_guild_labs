@@ -1,0 +1,40 @@
+main div {
+    margin: 6px;
+}
+.version {
+    border-radius: 12px;
+    padding: 6px;
+    background-color: rgba(0, 0, 0, 0.205);
+}
+
+#time-formats {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgba(1, 1, 95, 1);
+    border-radius: 12px;
+    color: white;
+}
+#date-formats {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgba(95, 47, 1, 1);
+    border-radius: 12px;
+    color: white;
+}
+h2 {
+    text-align: center;
+    margin: .5rem;
+}
+#laps {
+
+}
+.lap {
+
+}
+.timer-stopwatch-text {
+    display: flex;
+    align-items: center;
+}
+.timer-stopwatch-text h3 {
+    margin-right: 6px;
+}
