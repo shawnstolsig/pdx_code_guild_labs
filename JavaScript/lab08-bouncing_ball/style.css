@@ -1,0 +1,33 @@
+#canvas {
+    border: 3px solid red;
+}
+html,body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  border: 0;
+  overflow: hidden;
+  display: block;
+}
+
+.slider {
+
+}
+
+.slidecontainer {
+  /* width: 100%; */
+}
+
+#settings {
+  position: absolute;
+  bottom: 50px;
+  left: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+}
+
+.num-field {
+  width: 40px;
+}
